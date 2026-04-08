@@ -7,4 +7,4 @@ Key points
 3. data transformation
 4. Analysis
 5. Storing data using parqeut
-
+6. Data Visualisation
